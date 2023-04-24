@@ -1,0 +1,14 @@
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\bin\Debug\slideShow.exe.config
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\bin\Debug\slideShow.exe
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\bin\Debug\slideShow.pdb
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\obj\Debug\slideShow.Form1.resources
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\obj\Debug\slideShow.Properties.Resources.resources
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\obj\Debug\slideShow.csproj.GenerateResource.cache
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\obj\Debug\slideShow.csproj.CoreCompileInputs.cache
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\obj\Debug\slideShow.exe
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\obj\Debug\slideShow.pdb
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\bin\Debug\HtmlAgilityPack.dll
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\bin\Debug\HtmlAgilityPack.xml
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\obj\Debug\slideShow.csproj.CopyComplete
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\slideShow\obj\Debug\slideShow.csprojAssemblyReference.cache
